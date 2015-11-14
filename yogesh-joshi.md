@@ -5,3 +5,5 @@
 **Favourite Food:** Burger
 
 **Hobby:** Programming
+
+**Favourite color:** Violet
